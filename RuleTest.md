@@ -69,12 +69,12 @@ By reacting :white_check_mark: to this message, you agree to the rules stated ab
 {{{
 Channel: 908060073568382996
 UseReactionRoles: true
-reactionroles:
-  - react: ":white_check_mark:"
-    roles:
+ReactionRoles:
+  - React: ":white_check_mark:"
+    Roles:
       - 908229877084344371
       - 908230131082997760
-  - react: ":narroweyes:"
-    roles:
+  - React: ":narroweyes:"
+    Roles:
       - 908230195239079957
 }}}
