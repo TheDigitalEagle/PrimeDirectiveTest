@@ -71,11 +71,11 @@ Channel: 908060073568382996
 CleanChannel: true
 UseReactionRoles: true
 ReactionRoles:
-  - React: ":white_check_mark:"
+  - React: "✅"
     Roles:
       - 908229877084344371
       - 908230131082997760
-  - React: ":narroweyes:"
+  - React: "<:linkgotit:859159465688825916>"
     Roles:
       - 908230195239079957
 }}}
