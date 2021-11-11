@@ -66,3 +66,15 @@ We do not condone scalping, as it encourages toxic conversation and behavior. As
 
 By reacting :white_check_mark: to this message, you agree to the rules stated above and policies enforced by the server, Discord, Micro Center, and relevant parties.
 
+{{{
+Channel: 908060073568382996
+UseReactionRoles: true
+reactionroles:
+  - react: ":white_check_mark:"
+    roles:
+      - 908229877084344371
+      - 908230131082997760
+  - react: ":narroweyes:"
+    roles:
+      - 908230195239079957
+}}}
