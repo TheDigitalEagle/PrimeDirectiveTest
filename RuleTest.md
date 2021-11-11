@@ -68,6 +68,7 @@ By reacting :white_check_mark: to this message, you agree to the rules stated ab
 
 {{{
 Channel: 908060073568382996
+CleanChannel: true
 UseReactionRoles: true
 ReactionRoles:
   - React: ":white_check_mark:"
