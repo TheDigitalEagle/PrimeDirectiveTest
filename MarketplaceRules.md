@@ -104,3 +104,17 @@ There will always be subjective cases to listings, such as bundles and prebuilts
 
 
 **By reacting :white_check_mark:, you agree to these rules. You also agree to the rules of other marketplaces, when applicable.**
+
+{{{
+Channel: 912485392060661760
+CleanChannel: true
+UseReactionRoles: true
+ReactionRoles:
+  - React: "✅"
+    Roles:
+      - 908229877084344371
+      - 908230131082997760
+  - React: "<:linkgotit:859159465688825916>"
+    Roles:
+      - 908230195239079957
+}}}
